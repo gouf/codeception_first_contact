@@ -1,0 +1,12 @@
+{
+    "name": "gou/codeception_first_contact",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "gouf",
+            "email": "innocent.zero@gmail.com"
+        }
+    ],
+    "require": {}
+}
